@@ -6,6 +6,6 @@ I am an Data Analyst with a passion for data science & engineering where I love 
 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/mchun2016) (update portfolio link when created)<br/>
 ✉️  You can contact me at [mchun2016.chun@gmail.com](mailto:mchun2016.chun@gmail.com)<br/>
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchun2016&show_icons=true&theme=rose)
+<!--![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchun2016&show_icons=true&theme=rose)-->
 
 
